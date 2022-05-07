@@ -58,7 +58,7 @@ section.main {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(images/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg) no-repeat;
+  background: url(../../../images/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
