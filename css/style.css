@@ -328,6 +328,14 @@ section.skills-bar .bar .info span {
   content: "75%";
 }
 
+.bar div.js span {
+  opacity: 0.9;
+  width: 20%;
+}
+.bar div.js span::after {
+  content: "20%";
+}
+
 .progress span {
   height: 100%;
   width: 80%;
